@@ -12,6 +12,10 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        liber : ["Libre Bodoni" , "serif"],
+        rye : ["Rye" , "serif"],
+      }
     },
   },
   plugins: [],
